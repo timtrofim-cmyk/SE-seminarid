@@ -16,6 +16,7 @@ img {
   border: 4px solid #4a4e69;
   border-radius: 10px;
   box-shadow: 5px 5px 15px gray;
+    transition: transform 0.3s;
 }
 table {
   border-collapse: collapse;
@@ -42,4 +43,7 @@ body {
 
 .veerg {
   flex: 1;
+}
+img:hover {
+  transform: scale(1.05);
 }
