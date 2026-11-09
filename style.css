@@ -34,3 +34,12 @@ th {
 body {
   background-color: #f2e9e4;
 }
+
+.veerud {
+  display: flex;
+  gap: 30px;
+}
+
+.veerg {
+  flex: 1;
+}
