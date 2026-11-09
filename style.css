@@ -4,3 +4,16 @@ h1 {
   font-family: Georgia, serif;
   text-align: center;
 }
+p {
+  color: #333333;
+  font-size: 18px;
+  font-family: Arial, sans-serif;
+  text-align: justify;
+}
+img {
+  max-width: 100%;
+  height: auto;
+  border: 4px solid #4a4e69;
+  border-radius: 10px;
+  box-shadow: 5px 5px 15px gray;
+}
