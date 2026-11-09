@@ -17,3 +17,17 @@ img {
   border-radius: 10px;
   box-shadow: 5px 5px 15px gray;
 }
+table {
+  border-collapse: collapse;
+}
+
+th, td {
+  border: 1px solid #4a4e69;
+  padding: 6px 12px;
+}
+
+th {
+  background-color: #4a4e69;
+  color: white;
+  font-weight: bold;
+}
